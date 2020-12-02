@@ -12,6 +12,10 @@ def get_void():
     # Синтаксический сахар - можно написать голый return
     return 
 
+if get_void() is None:
+    # Проверка на  None
+    print()
+
 ans1 = get_name()
 print("From get_name():", ans1)
 
