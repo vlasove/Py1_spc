@@ -87,3 +87,6 @@
 #### Задачи повышенной сложности 
 * -
 
+### Самостоятельные работы:
+***Вторая:*** https://contest.yandex.ru/contest/23301
+***Первая:*** https://contest.yandex.ru/contest/23040/
